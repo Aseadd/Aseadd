@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **betsega23@gmail.com**
 
-- 📄 Know about my experiences [2+ years of remote development](2+ years of remote development)
+- 📄 Know about my experiences (2+ years of remote development)
 
 - ⚡ Fun fact **I am a Programmer**
 
