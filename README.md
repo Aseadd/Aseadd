@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **React, Redux and Ruby**<br><br>- 👨‍💻 All of my projects are available at [https://aquamarine-travesseiro-3c9d60.netlify.app/](https://aquamarine-travesseiro-3c9d60.netlify.app/)<br><br>- 💬 Ask me about **React, Ruby, Football and History**<br><br>- 📫 How to reach me **betsega23@gmail.com**<br><br>- 📄 Know about my experiences (2+ years of remote development)<br><br>- ⚡ Fun fact **I am a Programmer**
+- 🌱 I’m currently learning **React, Redux and Ruby**<br><br>- 👨‍💻 Some of my projects are available at [my portfolio](https://aquamarine-travesseiro-3c9d60.netlify.app/)<br><br>- 💬 Ask me about **React, Ruby, Football and History**<br><br>- 📫 How to reach me **betsega23@gmail.com**<br><br>- 📄 Know about my experiences (2+ years of remote development)<br><br>- ⚡ Fun fact **I am a Programmer**
 
 
 ## 🌐 Socials:
