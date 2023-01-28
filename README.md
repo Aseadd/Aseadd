@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Addis Tsega](https://github.com/Aseadd/)
 # 💫 About Me:
-- 🌱 I’m currently learning **React, Redux and Ruby**<br><br>- 👨‍💻 Some of my projects are available at [my portfolio](https://aquamarine-travesseiro-3c9d60.netlify.app/)<br><br>- 💬 Ask me about **React, Ruby, History and Football**<br><br>- 📫 How to reach me **betsega23@gmail.com**<br><br>- 📄 Know about my experiences (2+ years of remote development)<br><br>- ⚡ Fun fact **I am a Programmer**
+- 🌱 I’m currently learning **React, Redux Ruby and Ruby on Rails**<br><br>- 👨‍💻 Some of my projects are available at [my portfolio](https://aquamarine-travesseiro-3c9d60.netlify.app/)<br><br>- 💬 Ask me about **React, Ruby, History and Football**<br><br>- 📫 How to reach me **betsega23@gmail.com**<br><br>- 📄 Know about my experiences (2+ years of remote development)<br><br>- ⚡ Fun fact **I am a Programmer**
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
