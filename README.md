@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Addis Tsega](https://github.com/Aseadd/)
 # 💫 About Me:
  - 🌱 I’m looking to collaborate on **JavaScript, React, Redux, Node JS, Nest, Ruby and Ruby on Rails**<br><br>
- - 👨‍💻 Some of my projects are available at [my portfolio](https://aquamarine-travesseiro-3c9d60.netlify.app/)<br><br>
+ - 👨‍💻 Some of my projects are available at [my portfolio](https://addistsega.netlify.app/)<br><br>
  - 💬 Ask me about **React, Node JS, Nest, Ruby, History and Football**<br><br>
  - 📫 How to reach me **betsega23@gmail.com**<br><br> 
  -  📄 Learn about my experiences (5+ years of remote development)<br><br> 
